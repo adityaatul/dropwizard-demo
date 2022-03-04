@@ -1,4 +1,4 @@
-package com.yammer.dropwizarddemo;
+package com.yammer.dropwizarddemo.service;
 
 import com.yammer.dropwizard.Service;
 import com.yammer.dropwizard.config.Bootstrap;
